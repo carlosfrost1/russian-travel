@@ -41,7 +41,9 @@
 /* fonts */
 @import url(../vendor/fonts/fonts.css);
 
-
+body {
+    background-color: #2A2C2F;
+}
 
 /* main, div, a, h1, h2, h3, p, section, header, footer, ul, li {
     border: 1px solid red;

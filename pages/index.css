@@ -35,9 +35,9 @@
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/intro/__font-light/intro__font-light.css);
 
 /* now mods */
-@import url(../blocks/intro/__list/_weight/intro__list_weight.css);
 
 /* fonts */
 @import url(../vendor/fonts/fonts.css);

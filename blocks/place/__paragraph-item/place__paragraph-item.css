@@ -1,4 +1,4 @@
-.place__paragraph {
+.place__paragraph-item {
     margin: 0;
     font-size: 18px;
     font-weight: 400;
@@ -6,12 +6,12 @@
     color: #FFFFFF;
 }
 
-.place__paragraph:last-child {
+.place__paragraph-item:last-child {
     margin-top: 26px;
 }
 
 @media screen and (max-width: 768px) {
-    .place__paragraph {
+    .place__paragraph-item {
         font-size: 16px;
         line-height: 1.63;
     }
@@ -19,7 +19,7 @@
 }
 
 @media screen and (max-width: 600px) {
-    .place__paragraph {
+    .place__paragraph-item {
         margin-left: 16px;
         margin-right: 16px;
     }

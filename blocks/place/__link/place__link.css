@@ -6,7 +6,7 @@
     color: #FFFFFF;
 }
 
-.place__website_element_link:hover {
+.place__link:hover {
     opacity: 80%;
 }
 

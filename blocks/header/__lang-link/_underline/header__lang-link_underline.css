@@ -1,0 +1,5 @@
+.header__lang-link_underline {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-thickness: 2px;
+}
